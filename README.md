@@ -81,6 +81,18 @@ charades-ai/
 
 ---
 
+## Learning Outcomes
+
+Through this project I learned:
+
+- Git and GitHub
+- FastAPI development
+- API integration
+- AI-powered application design
+- Project version control
+
+---
+
 ## 👩‍💻 Developed By
 
 Sonakshi Badgurjar
