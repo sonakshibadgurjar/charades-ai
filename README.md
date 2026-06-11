@@ -93,6 +93,22 @@ Through this project I learned:
 
 ---
 
+## 📸 Project Screenshots
+
+### Project Structure
+
+![Project Structure](images/project-structure.png)
+
+### AI Guessing Logic
+
+![Guess Engine](images/guess-engine.png)
+
+### API Documentation
+
+![Swagger Docs](images/swagger-docs.png)
+
+---
+
 ## 👩‍💻 Developed By
 
 Sonakshi Badgurjar
